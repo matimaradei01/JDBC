@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Desarrollo/jdk/jdk1.6.0_25/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Desarrollo/jdk/jdk1.6.0_25/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.TOMCAT_HOME=C\:/Desarrollo/servers/apache-tomcat-6.0.35
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

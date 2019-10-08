@@ -1,0 +1,21 @@
+#Configuración Tandem (Todos los tiemout estan expresados en milisegundos)
+bee.tandem.poll.timeout=30000 
+
+bee.tandem.connect.timeout=240000
+bee.tandem.poolsize=5
+bee.tandem.accquire.timeout=30000
+bee.tandem.request.connector.max=99
+
+bee.tandem.request.timeout=300000
+bee.tandem.response.timeout=1200000
+
+bee.tandem.adress=200.45.17.94
+bee.tandem.port=40718
+
+#En milisegundos. 5 minutos
+bee.tandem.requestResponseManager.delay=300000
+
+bee.tandem.syncCallTimeout=30000
+
+bee.tandem.asyncCallTimeout=30000
+bee.tandem.envioPFExtendido=false

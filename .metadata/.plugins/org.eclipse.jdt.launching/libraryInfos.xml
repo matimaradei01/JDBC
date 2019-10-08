@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Desarrollo\jdk\jdk1.6.0_25" version="1.6.0_25">
+<bootpath>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\resources.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\rt.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\jsse.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\jce.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\charsets.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Desarrollo\jdk\jdk1.6.0_25\bin" version="1.6.0_25">
+<bootpath>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\resources.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\rt.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\jsse.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\jce.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\charsets.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Desarrollo\jdk\jdk1.6.0_25\bin\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

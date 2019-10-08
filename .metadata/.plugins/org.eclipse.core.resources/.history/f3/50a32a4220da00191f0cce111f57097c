@@ -1,0 +1,6 @@
+#Path del archivo de configuracion general de BEE
+bee.configuracion.path = ///C:\\Desarrollo\\workspaces\\ConfigBEE\\bee.configuracion.properties
+#bee.configuracion.path = ///C:/Desarrollo/workspaces/BRANCHS/LinkBEE/LinkBEEProperties/desarrollo-tomcat/bee.configuracion.properties
+
+#Intervalo de refresh de la configuracion general
+bee.configuracion.refreshdelay = 30000

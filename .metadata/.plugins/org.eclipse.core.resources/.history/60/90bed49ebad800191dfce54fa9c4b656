@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+	<description>
+  		Opciones de configuracion comunes a todos los servicios.
+  	</description>
+
+	<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="systemPropertiesModeName" value="SYSTEM_PROPERTIES_MODE_OVERRIDE"/>
+		<property name="locations">
+		
+			<list>			
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.afip.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.alias.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.coreservice.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.crypto.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.datasources.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.lpservices.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.mailservice.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.segundofactor.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.tandem.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.tools.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.webLogic.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.configuracion.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.refresh.configuracion.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/common.extractos.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.configuracion.token.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.ws.client.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.coelsa.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.pagosafip.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/cuenta.services.configuracion.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.prestamos.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.centro-mensaje.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.lotescheque.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.asj.data.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.beeservices.config.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.fci.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.ws.mail.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.debin.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.cuentaServices.consultaTranf.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.ws.sms.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.ws.ciu.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.divisa.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.credin.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.cuentaServices.consultas.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.urlExterna.data.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.ode.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.suscripciones.properties</value>
+				<value>file://$PROPERTIES_CONFIGURATION_PATH$/bee.echeq.properties</value>
+			</list>
+		</property>
+		<property name="ignoreUnresolvablePlaceholders" value="true"/>
+
+	</bean>
+	
+	
+</beans>

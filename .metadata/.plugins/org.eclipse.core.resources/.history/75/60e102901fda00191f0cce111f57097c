@@ -1,0 +1,5 @@
+bee.tandem.baseTermId=${bee.tandem.baseTermId.${weblogic.Name}}
+bee.tandem.baseTermId.desa_man01=000110000
+bee.tandem.baseTermId.desa_man02=000220000
+bee.log4j.timeReload=10000
+bee.log4j.home=/log4j.xml

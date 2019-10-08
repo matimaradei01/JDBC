@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929673
+jar:default:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929673
+jar:attach-sources:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929673
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929673
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929673
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929673
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929673
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929673
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929673
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929673
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929673
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929673
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.18.1",1568814929673
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929673
+jar:default:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929673
+jar:attach-sources:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929673
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929673
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929673
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929673
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.18.1",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+jar:default:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+jar:attach-sources:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+pom,m2e.packaging,org.eclipse.m2e.core,1.0.100,"pom",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1568814929674
+copy-dependencies:copy-dependencies:prepare-package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-dependency-plugin:2.0",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.2",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.18.1",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+jar:default:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+jar:attach-sources:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1568814929674
+report:during-tests:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-report-plugin:2.4.2",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.7.1",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+jar,m2e.packaging,org.eclipse.m2e.core,1.0.100,"jar",1568814929674
+clean:default-clean:clean,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-clean-plugin:2.4.1",1568814929674
+resources:default-resources:process-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+compile:default-compile:compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+testResources:default-testResources:process-test-resources,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-resources-plugin:2.4.3",1568814929674
+testCompile:default-testCompile:test-compile,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-compiler-plugin:2.0.2",1568814929674
+test:default-test:test,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-surefire-plugin:2.18.1",1568814929674
+jar:default-jar:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-jar-plugin:2.3.1",1568814929674
+jar:default:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+jar:attach-sources:package,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-source-plugin:2.0.4",1568814929674
+install:default-install:install,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-install-plugin:2.3.1",1568814929674
+deploy:default-deploy:deploy,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-deploy-plugin:2.5",1568814929674
+site:default-site:site,m2e.plugins,org.eclipse.m2e.core,1.0.100,"org.apache.maven.plugins:maven-site-plugin:2.0.1",1568814929674
+pom,m2e.packaging,org.eclipse.m2e.core,1.0.100,"pom",1568814929674
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1568814942208
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1568814949188
+error,log,,,"LinkBEEParentPom does not exist",1568814952366
+error,log,,,"LinkBEEParentPom does not exist",1568814952392
+error,log,,,"LinkBEEParentPom does not exist",1568814952408
+error,log,,,"LinkBEEParentPom does not exist",1568814952417
+error,log,,,"LinkBEEParentPom does not exist",1568814952433
+error,log,,,"LinkBEEParentPom does not exist",1568814952448
+error,log,,,"LinkBEEParentPom does not exist",1568814952457
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568814952883
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568814955789
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1568814962075
+opened,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1568814979009
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1568814979023
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201107221459,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1568814979704
+activated,view,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1568814981007
+activated,view,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1568814981022
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1568814982372
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201107221459,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1568814985438
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1568814986524
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.PropertySheet",1568814987102
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568814988599
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815060550
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1568815062790
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1568815063937
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1568815064546
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815071852
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815148374
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815151474
+error,log,,,"LinkBEEParentPom does not exist",1568815176372
+error,log,,,"LinkBEEParentPom does not exist",1568815176401
+error,log,,,"LinkBEEParentPom does not exist",1568815176419
+error,log,,,"LinkBEEParentPom does not exist",1568815176426
+error,log,,,"LinkBEEParentPom does not exist",1568815176443
+error,log,,,"LinkBEEParentPom does not exist",1568815176470
+error,log,,,"LinkBEEParentPom does not exist",1568815176480
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815182421
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1568815196822
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815199073
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815258438
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815324185
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815329273
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815330253
+error,log,,,"LinkBEEParentPom does not exist",1568815349240
+error,log,,,"LinkBEEParentPom does not exist",1568815349273
+error,log,,,"LinkBEEParentPom does not exist",1568815349299
+error,log,,,"LinkBEEParentPom does not exist",1568815349313
+error,log,,,"LinkBEEParentPom does not exist",1568815349330
+error,log,,,"LinkBEEParentPom does not exist",1568815349348
+error,log,,,"LinkBEEParentPom does not exist",1568815349358
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815398803
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815400983
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815507552
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815531064
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815536489
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815537688
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815539879
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1568815548293
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815549058
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815590966
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1568815594765
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1568815596084
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1568815631327
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815637095
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815638418
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1568815650461
+error,log,,,"LinkBEEParentPom does not exist",1568815654050
+error,log,,,"LinkBEEParentPom does not exist",1568815654064
+error,log,,,"LinkBEEParentPom does not exist",1568815654077
+error,log,,,"LinkBEEParentPom does not exist",1568815654077
+error,log,,,"LinkBEEParentPom does not exist",1568815654090
+error,log,,,"LinkBEEParentPom does not exist",1568815654103
+error,log,,,"LinkBEEParentPom does not exist",1568815654112
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815654177
+error,log,,,"LinkBEEParentPom does not exist",1568815664801
+error,log,,,"LinkBEEParentPom does not exist",1568815664818
+error,log,,,"LinkBEEParentPom does not exist",1568815664840
+error,log,,,"LinkBEEParentPom does not exist",1568815664849
+error,log,,,"LinkBEEParentPom does not exist",1568815664852
+error,log,,,"LinkBEEParentPom does not exist",1568815664872
+error,log,,,"LinkBEEParentPom does not exist",1568815664873
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815697608
+activated,view,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1568815708358
+activated,view,org.eclipse.datatools.connectivity.ui.dse,1.1.4.v201107221459,"org.eclipse.datatools.connectivity.DataSourceExplorerNavigator",1568815709329
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815710948
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815725852
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1568815727829
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815731969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815735749
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815737772
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815740949
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815742450
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815745104
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815746384
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815751347
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815755344
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815760817
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815763749
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815818618
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815825258
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815829075
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815837434
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815849042
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.openResource",1568815849055
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815850315
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815865219
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815866517
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815871728
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1568815872359
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1568815872413
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.openResource",1568815872489
+started,bundle,org.eclipse.mylyn.java.tasks,3.7.0.v20120319-0200,"org.eclipse.mylyn.java.tasks",1568815877975
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1568815880687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815883787
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815890472
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1568815891180
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1568815896029
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815897042
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815899195
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.AllMarkersView",1568815901665
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1568815901666
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815906595
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815982648
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815983842
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815990111
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1568815990228
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PropertiesFileEditor",1568815990259
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.openResource",1568815990305
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568815990728
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816061985
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816065657
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816067738
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816068509
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816120835
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816121978
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816176202
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.openResource",1568816176210
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816176522
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816222924
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816224383
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816274717
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816275751
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816284558
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1568816285391

@@ -1,0 +1,10 @@
+computeSourcePath=true
+contextsDir=C\:\\Desarrollo\\servers\\apache-tomcat-6.0.35\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+jvmParameters=-XX%3APermSize%3D750m;-Xmx750m;-Xms750m;-XX%3AMaxPermSize%3D750m;
+managerUrl=http\://localhost\:8080/manager
+tomcatConfigFile=C\:\\Desarrollo\\servers\\apache-tomcat-6.0.35\\conf\\server.xml
+tomcatDir=C\:\\Desarrollo\\servers\\apache-tomcat-6.0.35
+tomcatJRE=1568656249779
+tomcatVersion=tomcatV6
